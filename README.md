@@ -50,6 +50,8 @@ Copy code
 ### Customization
 - Replace `yourusername` in the clone URL with your actual GitHub username.
 - Feel free to add or modify sections based on your project's specific requirements, any additional features, or technologies you used.
+- 
+## screenshots
+    ![image](https://github.com/user-attachments/assets/4c2ef945-2c79-41ae-8fd5-2f9e69d21155)
 
-    
 
